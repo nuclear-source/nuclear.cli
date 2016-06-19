@@ -6,8 +6,5 @@
 	"license": "MIT",
 	"require": {
 		"php": ">=5.2.4"
-	},
-	"require": {
-		"nuclearcms/nuclear-cli": "1.0.*"
 	}
 }
