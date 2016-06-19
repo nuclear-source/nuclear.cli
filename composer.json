@@ -3,5 +3,11 @@
 	"name": "nuclearcms/nuclear.cli",
 	"type": "project",
 	"homepage": "https://nuclearcms.com",
-	"license": "MIT"
+	"license": "MIT",
+	"require": {
+		"php": ">=5.2.4"
+	},
+	"require": {
+		"nuclearcms/nuclear-cli": "1.0.*"
+	}
 }
